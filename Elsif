@@ -1,0 +1,7 @@
+if 0 == 0
+  print "I'm too tired"
+elsif 0 != 0
+  print "I'm not tired"
+else
+  puts "x equals y!"
+end
