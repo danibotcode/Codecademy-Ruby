@@ -1,0 +1,7 @@
+name = "danibotcode"
+
+name.downcase
+name.reverse
+name.upcase
+
+puts name.downcase.reverse.upcase
