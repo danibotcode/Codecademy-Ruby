@@ -1,3 +1,3 @@
 pets = Hash.new
 
-pets["Nroman"] = "cat"
+pets["Norman"] = "cat"
