@@ -1,0 +1,8 @@
+# Write your code on line 2!
+favorite_language ||= "Java"
+puts favorite_language
+
+
+
+# ==> Java
+# ==> Your favorite language isn't Ruby?? For shame!
