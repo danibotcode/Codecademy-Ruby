@@ -1,0 +1,10 @@
+book_1 = "A Wrinkle in Time"
+
+book_2 = "A Brief History of Time"
+
+
+puts book_1 <=> book_2
+
+# -1 if the furst block should come before 2nd
+# 1 if the 2nd block should come before 1st
+# 0 if equal
