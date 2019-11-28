@@ -1,0 +1,15 @@
+#Initially, I wrote an improper refactored times function
+
+#Write your code below!
+5.times puts "I'm a block!"
+
+#I managed to fix it, without research
+
+# Write your code below!
+5.times {puts "I'm a block!"}
+
+
+#The solution provided was not refactored
+5.times do
+  puts "I'm a block!"
+end
