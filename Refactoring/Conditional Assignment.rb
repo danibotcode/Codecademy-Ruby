@@ -1,0 +1,3 @@
+favorite_animal ||= "Octopus"
+
+#deja vu...
