@@ -3,3 +3,4 @@ class MyClass
 end
 
 puts $my_variable
+#
