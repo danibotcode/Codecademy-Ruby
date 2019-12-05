@@ -8,6 +8,6 @@ end
 
 matz = Person.new("Yukihiro")
 
-#68
+#69
 
 
