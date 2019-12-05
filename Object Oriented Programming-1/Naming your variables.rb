@@ -4,7 +4,7 @@ class MyClass
 end
 
 
-#Dollar sign required to access
+#Dollar sign required to access.
 puts $my_variable
 puts $my_farewell
 
